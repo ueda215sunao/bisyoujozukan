@@ -1,0 +1,14 @@
+.photogallery{
+	width: 100%;
+}
+
+h1{
+	margin-top: 300px;
+	margin-left: 500px;
+}
+
+.img{
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 150px;  
+}
